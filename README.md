@@ -30,13 +30,13 @@ NerveCenter is an enterprise-grade Site Reliability Engineering (SRE) agent desi
 
 Built collaboratively by:
 
-\*   \*\*Naguru Kethan Kumar Reddy\*\* (Team Leader)\[cite: 14]
+\*   \*\*Naguru Kethan Kumar Reddy\*\* (Team Leader)
 
-\*   \*\*Namita Sherakhane\*\* (Member)\[cite: 14]
+\*   \*\*Namita Sherakhane\*\* (Member)
 
-\*   \*\*Manya Agarwal\*\* (Member)\[cite: 14]
+\*   \*\*Manya Agarwal\*\* (Member)
 
-\*   \*\*Joshika Kuntimaddi\*\* (Member)\[cite: 14]
+\*   \*\*Joshika Kuntimaddi\*\* (Member)
 
 
 
